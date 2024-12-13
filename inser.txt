@@ -1,0 +1,1 @@
+insert into budget (id,child1fee,child2fee,emergency, entertainment,groceries,health,help_poor,income,insurance,investment,misc,power,rent,saving_target,transport,wifi) values(4,2000,2000,1000,1000,12000,1000,1000,100000,1000,1000,1000,500,10000,5000,1000,500);

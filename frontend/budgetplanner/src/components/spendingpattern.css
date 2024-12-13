@@ -1,0 +1,21 @@
+/* App.css */
+.App {
+     font-family: Arial, sans-serif;
+     text-align: center;
+     padding: 20px;
+   }
+   
+   h1 {
+     color: #333;
+   }
+   
+   h2 {
+     color: #555;
+   }
+   
+   .line-graph-container {
+     max-width: 900px;
+     margin: 0 auto;
+     padding-top: 30px;
+   }
+   
